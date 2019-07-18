@@ -19,6 +19,9 @@ export default function Header() {
       <Link href="/tv">
         <a style={linkStyle}>TV</a>
       </Link>
+      <Link href="/styles">
+        <a style={linkStyle}>Styles</a>
+      </Link>
     </div>
   )
 }
